@@ -5,6 +5,7 @@
         public static void Main(string[] args) 
         {
             Console.WriteLine("Programs on Stack and Queues");
+            Stack.Display();
         }
     }
 }

@@ -20,6 +20,31 @@ namespace DataStructure
                // Console.WriteLine("Elements in stack is:");
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Peek element is :"+s.Peek());
+            Console.WriteLine("Pop element : "+s.Pop());
+            foreach (int i in s)
+            {
+                // Console.WriteLine("Elements in stack is:");
+                Console.WriteLine(i);
+            }
+            Console.WriteLine("Peek element is :" + s.Peek());
+            Console.WriteLine("Pop element : " + s.Pop());
+            foreach (int i in s)
+            {
+                // Console.WriteLine("Elements in stack is:");
+                Console.WriteLine(i);
+            }
+            Console.WriteLine("Peek element is :" + s.Peek());
+            Console.WriteLine("Pop element : " + s.Pop());
+            foreach (int i in s)
+            {
+                // Console.WriteLine("Elements in stack is:");
+                Console.WriteLine(i);
+                
+            }
+
+            Console.WriteLine("stack is Empty");
+
         }
     }
 }
